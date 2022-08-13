@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
   
-   
- 
-  
-   
-   
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Hi!
 ======
