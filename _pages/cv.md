@@ -18,7 +18,9 @@ Education
 
 Academic research experience
 ======
-* 2019-2021: University of Wisconsin - Madison, Research Specialist
+* 2021 : Graduate Research Assistant, Univeristy of Wisconsin - Madison
+
+* 2019-2021: Research Specialist, University of Wisconsin - Madison,
   * Supervisor:  Dr Emily Ward, Visual Cognition Lab
   * Working on finding failures in visual awareness in Deep Neural Networks
   * Worked on finding the presence of ensemble properties in Deep Neural Networks
@@ -28,14 +30,24 @@ Academic research experience
   * Worked on analysing fMRI data from the BOLD 5000 dataset.
 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Intern, Brown University
+  * Supervisor:  Dr Thomas Serre, Serre Lab
+  * Worked on comparing the performance of various action recognition models on an in-house dataset.
+  * Closely worked on implementing the two-stream architecture for the same.
+  * Compiled a dataset which was used to analyse the neural spikes from the V4 neurons in a monkey brain.
+  * Worked on the electrophysiological data from the monkey brain to analyse the receptive field of V4 neurons using both deep and natural features.
+  * Integrated an FCN for segmentation with the current pipeline used at Serre Lab for behavioural analysis of mice.
+
+* 2018-2019: Research Assistant, PES University
+  * Supervisor:  Dr S NatarajanWorked on hierarchical embeddings in Knowledge Graphs which resulted in a publication at ACM SAC 2020.
+  * Worked on building a domain agnostic question answering system for unstructured text(textbooks) by trying to utilise the inherent hierarchy which is present in Textbooks. The hierarchy helps us in coming up with appropriate embeddings for building a knowledge graph.
+  * Worked on solving the problem of Night-time object detection using Generative Adversarial Networks
+
+
 
 Industry experience
 ======
-* Spring 2019: VMWARE, Research and Development Intern
+* Spring 2019: Research and Development Intern, VMWARE
   * Developed the authentication model for VMware’s Tanzu Mission control.
   * Added commands to the Command Line Interface tool of Vmware Tanzu.
   * Worked on cluster health remediation in Vmware Tanzu.
