@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
   
-
-
-
+   
+ 
   
+   
+   
+
+
+
 Hi!
 ======
 
-I am Siddharth, a second year graduate student in the [Psychology Depratment](https://psych.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/). I am interested in the intersection of Cognitive Science and Artificial Intelligence. My reserach interests including using computational modelling techniques like Deep Learning and Machine Learning to understand our brains better. I also use techniques from Cognitive Science to understand AI models. 
+I am Siddharth, a second year graduate student in the [Psychology Department](https://psych.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/). I am interested in the intersection of Cognitive Science and Artificial Intelligence. My reserach interests including using computational modelling techniques like Deep Learning and Machine Learning to understand our brains better. I also use techniques from Cognitive Science to understand AI models. 
 
 
 
