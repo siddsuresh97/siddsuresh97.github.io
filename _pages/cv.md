@@ -11,22 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, PES University, 2019
+* M.S. in Psychology (Cognition and Cognitive Neuroscience),University of Wisconsin - Madison, 2023(expected)
+* M.S. in Computer Science, University of Wisconsin - Madison, 2024(expected)
+* Ph.D in Psychology (Cognition and Cognitive Neuroscience), University of Wisconsin - Madison, 2026 (expected)
 
-Work experience
+Academic research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2021: University of Wisconsin - Madison, Research Specialist
+  * Supervisor:  Dr Emily Ward, Visual Cognition Lab
+  * Working on finding failures in visual awareness in Deep Neural Networks
+  * Worked on finding the presence of ensemble properties in Deep Neural Networks
+  * Worked on implementing the Neural Causation Coefficient introduced in the paper titled ‘Discovering Causal Signals in Images’ to find the causal direction in observational data.
+  * Became proficient in MATLAB and Psychopy.
+  * Worked on programming perception-related experiments.
+  * Worked on analysing fMRI data from the BOLD 5000 dataset.
+
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+Industry experience
+======
+* Spring 2019: VMWARE, Research and Development Intern
+  * Developed the authentication model for VMware’s Tanzu Mission control.
+  * Added commands to the Command Line Interface tool of Vmware Tanzu.
+  * Worked on cluster health remediation in Vmware Tanzu.
+  * Contributed to upstream Kubernetes project.
+
 Skills
 ======
 * Skill 1
@@ -56,4 +70,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteered at Neuromatch Conference 3.0 (2020) to be a backend host. I was responsible for starting, recording and live streaming each session. I also contributed to the post-production of individual talks after the conference.
+* Volunteered to be the Production editor for NMA in 2021. I was responsible to review the course content of 5 days of content for the NMA computational neuroscience summer school.
