@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  
-<br>
 <br>
 
 Hi!
 ======
 
-I am Siddharth, a second year graduate student in the [Psychology Department](https://psych.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/). I am interested in the intersection of Cognitive Science and Artificial Intelligence. My reserach interests including using computational modelling techniques like Deep Learning and Machine Learning to understand our brains better. I also use techniques from Cognitive Science to understand AI models. 
+I am Siddharth, a second year graduate student in the [Psychology Department](https://psych.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/). I am interested in the intersection of Cognitive Science and Artificial Intelligence. My reserach interests including using computational modelling techniques like Deep Learning and Machine Learning to understand our brains better. I also use techniques from Cognitive Science to understand AI models.
 
+I'm affiliated with the [Knowledge and Concepts Lab](http://concepts.psych.wisc.edu/) and the [Visual Cognition Lab](https://emilyward.org/wordpress/). Prior to joining as a PhD student, I worked as a Research Specialist at the [Visual Cognition Lab](https://emilyward.org/wordpress/) after graduating from undergrad in 2019. During my undergrad, I spent a summer at [Brown Universiy](https://www.brown.edu/) working at the [Serre Lab](https://serre-lab.clps.brown.edu/person/thomas-serre/). I also spent 6 months at [VMware](https://www.vmware.com/in.html) in Bangalore, India as a R&D intern during the last semester of my undergrad.
 
+In another life, I was a child actor. One of my tv series, aired on [Indian National television (Doordarshan)](https://prasarbharati.gov.in/dd-national-homepage/). One of my [short films on youtube](https://www.youtube.com/watch?v=fjlzhPHOIHY&ab_channel=RunwayReel-TeluguLatestShortFilms) has about 3.7 million views. In my free time, I love playing the guitar, writing songs and playing table tennis. I have made the [anthem](https://www.youtube.com/watch?v=Rqzddi6MSpY&ab_channel=HyderabadHunters) for [Hyderabad Hunters](http://hyderabadhunters.com/) which is a team in the [Premier Badminton Leage](https://www.pbl-india.com/). You can find the rest of my portfolio [here](https://sites.google.com/d/16PLQORwYlPE82tcVcBhLdZI2-m7e0RgL/p/10v8RH9SqLFaI3awN2wE3KRI0piiKtLxu/edit).
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
