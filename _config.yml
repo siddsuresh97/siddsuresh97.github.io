@@ -84,10 +84,10 @@ author:
   avatar           : "sid_photo.jpg"
   bio              : "PhD Student University of Wisconsin-Madison in Cognitive Science"
   location         : "Madison, WI"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # employer         : 
+  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xsyrntwAAAAJ&hl=en"
-  email            :
+  email            : "[firstname].[lastname]@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
