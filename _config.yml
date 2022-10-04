@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siddharth's webpage"
+title                    : "Siddharth Suresh"
 title_separator          : "-"
 name                     : &name "Siddharth Suresh"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xsyrntwAAAAJ&hl=en"
-  email            :
+  email            : [firstname].[lastname]@wisc.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
