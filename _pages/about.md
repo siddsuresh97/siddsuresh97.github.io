@@ -12,7 +12,7 @@ redirect_from:
 Hi!
 ======
 
-I am Siddharth, a second year graduate student in the [Psychology Department](https://psych.wisc.edu/) and the [Computer Science Department][https://www.cs.wisc.edu/] at the [University of Wisconsin - Madison](https://www.wisc.edu/). I am interested in the intersection of Cognitive Science and Artificial Intelligence. My research interests including using computational modelling techniques like Deep Learning and Machine Learning to understand our brains better. I also use techniques from Cognitive Science to understand AI models.
+I am Siddharth, a third-year graduate student in the [Psychology Department](https://psych.wisc.edu/) and the [Computer Science Department][https://www.cs.wisc.edu/] at the [University of Wisconsin - Madison][https://www.wisc.edu/]. I am interested in the intersection of Cognitive Science and Artificial Intelligence. My research interests include using computational modelling techniques like Deep Learning and Machine Learning to understand our brains reprsent semantic information. I also use techniques from Cognitive Science to understand semantic representations in AI models.
 
 I'm affiliated with the [Knowledge and Concepts Lab](http://concepts.psych.wisc.edu/) and the [Visual Cognition Lab](https://emilyward.org/wordpress/). Prior to joining as a PhD student, I worked as a Research Specialist at the [Visual Cognition Lab](https://emilyward.org/wordpress/) after graduating from undergrad in 2019. During my undergrad, I spent a summer at [Brown University](https://www.brown.edu/) working at the [Serre Lab](https://serre-lab.clps.brown.edu/person/thomas-serre/). I also spent 6 months at [VMware](https://www.vmware.com/in.html) in Bangalore, India as a R&D intern during spring 2019.
 
