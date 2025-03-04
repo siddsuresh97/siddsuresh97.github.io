@@ -33,38 +33,38 @@ Latest News
 <div class="news-section">
 <ul>
 
-<li>***December 2024**: Workshop proposal "Representational Alignment in Minds and Machines" accepted to [ICLR 2025](https://iclr.cc/Conferences/2025). I will be co-organizing this workshop. [Workshop website](https://representational-alignment.github.io/2025/)*</li>
+<li><strong>December 2024</strong>: Workshop proposal "Representational Alignment in Minds and Machines" accepted to [ICLR 2025](https://iclr.cc/Conferences/2025). I will be co-organizing this workshop. [Workshop website](https://representational-alignment.github.io/2025/)</li>
 
-<li>***November 2024**: Accepted offer as a ML Research Intern at Netflix for Summer 2025 to work on LLM agents. Sunny California, here I come!*</li>
-<li>***September 2024**: Paper "Probing LLM World Model: Enhancing Guesstimation with Wisdom of Crowds Decoding" accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024) Workshop on Behavioral Machine Learning*</li>
+<li><strong>November 2024</strong>: Accepted offer as a ML Research Intern at Netflix for Summer 2025 to work on LLM agents. Sunny California, here I come!</li>
+<li><strong>September 2024</strong>: Paper "Probing LLM World Model: Enhancing Guesstimation with Wisdom of Crowds Decoding" accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024) Workshop on Behavioral Machine Learning</li>
 
-<li>***September 2024**: Paper "Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning" accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024) datasets and benchmarks track*</li>
+<li><strong>September 2024</strong>: Paper "Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning" accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024) datasets and benchmarks track</li>
 
-<li>***June 2024**: Started as an Applied Scientist Intern at Amazon AGI working on generative recommendation systems using LLMs*</li>
-<li>***April 2024**: Paper "Learning interactions to boost human creativity with bandits and GPT-4" accepted to [CogSci 2024](https://cognitivesciencesociety.org/cogsci-2024/) in Rotterdam*</li>
+<li><strong>June 2024</strong>: Started as an Applied Scientist Intern at Amazon AGI working on generative recommendation systems using LLMs</li>
+<li><strong>April 2024</strong>: Paper "Learning interactions to boost human creativity with bandits and GPT-4" accepted to [CogSci 2024](https://cognitivesciencesociety.org/cogsci-2024/) in Rotterdam</li>
 
-<li>***March 2024**: Gave an invited talk on "Semantic reprresentations in minds and machines" at PDP seminar at Princeton University*</li>
+<li><strong>March 2024</strong>: Gave an invited talk on "Semantic reprresentations in minds and machines" at PDP seminar at Princeton University</li>
 
 <div class="hidden-news">
-<li>***March 2024**: Paper "Siimulating Opinion Dynamics with Networks of LLM-based Agents"" accepted to NAACL 2024*</li>
+<li><strong>March 2024</strong>: Paper "Siimulating Opinion Dynamics with Networks of LLM-based Agents"" accepted to NAACL 2024</li>
 
-<li>***February 2024**: Two papers accepted at ICLR 2024 workshop on LLM Agents: "The Wisdom of Partisan Crowds" and "Simulating Opinion Dynamics with Networks of LLM-based Agents"*</li>
+<li><strong>February 2024</strong>: Two papers accepted at ICLR 2024 workshop on LLM Agents: "The Wisdom of Partisan Crowds" and "Simulating Opinion Dynamics with Networks of LLM-based Agents"</li>
 
-<li>***February 2024**: Two papers accepted at ICLR 2024 Workshop on Representational Alignment: "Categories vs Semantic Features: What shapes the similarities people discern in photographs of objects?" and "The role of shared labels and experiences in representational alignment" with K. Mukherjee*</li>
+<li><strong>February 2024</strong>: Two papers accepted at ICLR 2024 Workshop on Representational Alignment: "Categories vs Semantic Features: What shapes the similarities people discern in photographs of objects?" and "The role of shared labels and experiences in representational alignment" with K. Mukherjee</li>
 
-<li>***December 2023**: Received departmental travel award of $1500 to present research at EMNLP 2023 in Singapore*</li>
+<li><strong>December 2023</strong>: Received departmental travel award of $1500 to present research at EMNLP 2023 in Singapore</li>
 
-<li>***November 2023**: Gave a guest lecture on using version control for research projects at AI + Society seminar (Wisconsin Institute of Discovery)*</li>
+<li><strong>November 2023</strong>: Gave a guest lecture on using version control for research projects at AI + Society seminar (Wisconsin Institute of Discovery)</li>
 
-<li>***September 2023**: Gave an invited talk on "Semantic representations in minds and machines" at the MRC Cognition and Brain Sciences Unit, Cambridge, UK*</li>
+<li><strong>September 2023</strong>: Gave an invited talk on "Semantic representations in minds and machines" at the MRC Cognition and Brain Sciences Unit, Cambridge, UK</li>
 
-<li>***September 2023**: Paper "Conceptual structure coheres in human cognition but not in large language models" accepted to the main track at EMNLP 2023*</li>
+<li><strong>September 2023</strong>: Paper "Conceptual structure coheres in human cognition but not in large language models" accepted to the main track at EMNLP 2023</li>
 
-<li>***July 2023**: Presented poster on "Behavioral estimates of conceptual structure" at CogSci 2023 in Sydney, Australia*</li>
+<li><strong>July 2023</strong>: Presented poster on "Behavioral estimates of conceptual structure" at CogSci 2023 in Sydney, Australia</li>
 
-<li>***June 2023**: Received Menzies award of $500 to conduct research using Large Language Models*</li>
+<li><strong>June 2023</strong>: Received Menzies award of $500 to conduct research using Large Language Models</li>
 
-<li>***May 2023**: Presented talk on "Can deep convolutional networks explain the semantic structure that humans see in photographs?" at Vision Science Society conference in St. Pete's Beach, Florida*</li>
+<li><strong>May 2023</strong>: Presented talk on "Can deep convolutional networks explain the semantic structure that humans see in photographs?" at Vision Science Society conference in St. Pete's Beach, Florida</li>
 </div>
 
 </ul>
