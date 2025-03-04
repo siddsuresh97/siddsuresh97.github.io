@@ -1,13 +1,14 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: "CV"
+nav: true
+nav_order: 4
+cv_pdf: example_pdf.pdf
 ---
 
-{% include base_path %}
+Find my latest CV <a href="https://drive.google.com/file/d/16a2x2BgFzwgWkVVMt_n2z5kUFo_9ev0b/view?usp=sharing">here</a>.
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -24,7 +25,7 @@ Academic research experience
   * Supervisor:  Dr Emily Ward, Visual Cognition Lab
   * Working on finding failures in visual awareness in Deep Neural Networks
   * Worked on finding the presence of ensemble properties in Deep Neural Networks
-  * Worked on implementing the Neural Causation Coefficient introduced in the paper titled ‘Discovering Causal Signals in Images’ to find the causal direction in observational data.
+  * Worked on implementing the Neural Causation Coefficient introduced in the paper titled 'Discovering Causal Signals in Images' to find the causal direction in observational data.
   * Became proficient in MATLAB and Psychopy.
   * Worked on programming perception-related experiments.
   * Worked on analysing fMRI data from the BOLD 5000 dataset.
@@ -48,7 +49,7 @@ Academic research experience
 Industry experience
 ======
 * Spring 2019: Research and Development Intern, VMWARE
-  * Developed the authentication model for VMware’s Tanzu Mission control.
+  * Developed the authentication model for VMware's Tanzu Mission control.
   * Added commands to the Command Line Interface tool of Vmware Tanzu.
   * Worked on cluster health remediation in Vmware Tanzu.
   * Contributed to upstream Kubernetes project.
@@ -83,4 +84,4 @@ Teaching
 Service and leadership
 ======
 * Volunteered at Neuromatch Conference 3.0 (2020) to be a backend host. I was responsible for starting, recording and live streaming each session. I also contributed to the post-production of individual talks after the conference.
-* Volunteered to be the Production editor for NMA in 2021. I was responsible to review the course content of 5 days of content for the NMA computational neuroscience summer school.
+* Volunteered to be the Production editor for NMA in 2021. I was responsible to review the course content of 5 days of content for the NMA computational neuroscience summer school. -->

@@ -16,6 +16,8 @@ I am Siddharth, a third-year graduate student in the [Psychology Department](htt
 
 [Read more about me](/about-me/)
 
+Find my latest resume <a href="https://drive.google.com/file/d/1gaHefAfRN31_lQizsxH9FTTD4V7w7UGx/view">here</a>.
+
 Research Interests
 ======
 
