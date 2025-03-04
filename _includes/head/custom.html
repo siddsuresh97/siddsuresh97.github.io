@@ -35,4 +35,54 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<style>
+/* Custom styles */
+.news-section {
+  font-size: 0.85em;  /* Smaller font size */
+  position: relative;
+}
+
+.news-section .hidden-news {
+  display: none;
+}
+
+.news-section.expanded .hidden-news {
+  display: block;
+}
+
+.read-more-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px 15px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9em;
+  color: #666;
+  text-decoration: none;
+}
+
+.read-more-btn:hover {
+  background-color: #e0e0e0;
+  text-decoration: none;
+  color: #666;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const newsSection = document.querySelector('.news-section');
+  const readMoreBtn = document.querySelector('.read-more-btn');
+  
+  if (newsSection && readMoreBtn) {
+    readMoreBtn.addEventListener('click', function(e) {
+      e.preventDefault();
+      newsSection.classList.toggle('expanded');
+      readMoreBtn.textContent = newsSection.classList.contains('expanded') ? 'Show Less' : 'Read More';
+    });
+  }
+});
+</script>
+
 <!-- end custom head snippets -->

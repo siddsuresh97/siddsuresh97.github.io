@@ -30,6 +30,7 @@ Research Interests
 Latest News
 ======
 
+<div class="news-section">
 
 ***December 2024**: Workshop proposal "Representational Alignment in Minds and Machines" accepted to [ICLR 2025](https://iclr.cc/Conferences/2025). I will be co-organizing this workshop. [Workshop website](https://representational-alignment.github.io/2025/)*
 
@@ -42,6 +43,8 @@ Latest News
 ***April 2024**: Paper "Learning interactions to boost human creativity with bandits and GPT-4" accepted to [CogSci 2024](https://cognitivesciencesociety.org/cogsci-2024/) in Rotterdam*
 
 ***March 2024**: Gave an invited talk on "Semantic reprresentations in minds and machines" at PDP seminar at Princeton University*
+
+<div class="hidden-news">
 
 ***March 2024**: Paper "Siimulating Opinion Dynamics with Networks of LLM-based Agents"" accepted to NAACL 2024*
 
@@ -62,6 +65,12 @@ Latest News
 ***June 2023**: Received Menzies award of $500 to conduct research using Large Language Models*
 
 ***May 2023**: Presented talk on "Can deep convolutional networks explain the semantic structure that humans see in photographs?" at Vision Science Society conference in St. Pete's Beach, Florida*
+
+</div>
+
+</div>
+
+<a href="#" class="read-more-btn">Read More</a>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
