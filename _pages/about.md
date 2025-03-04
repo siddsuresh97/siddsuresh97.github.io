@@ -23,7 +23,7 @@ Research Interests
 
 * Cognitive Science
 * Representation Learning
-* Language Models - LLM Agents, SFT, Reasoning, Evaluation, etc.
+* Language Models - LLM Agents, SFT, Reasoning, Evaluation, Task Vectors, etc.
 * Multimodal Learning
 
 
