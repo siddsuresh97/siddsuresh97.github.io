@@ -14,10 +14,54 @@ Hi!
 
 I am Siddharth, a third-year graduate student in the [Psychology Department](https://psych.wisc.edu/) and the [Computer Science Department](https://www.cs.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/). I am interested in the intersection of Cognitive Science and Artificial Intelligence. My research interests include using computational modelling techniques like Deep Learning and Machine Learning to understand our brains reprsent semantic information. I also use techniques from Cognitive Science to understand semantic representations in AI models.
 
-I'm affiliated with the [Knowledge and Concepts Lab](http://concepts.psych.wisc.edu/) and the [Visual Cognition Lab](https://emilyward.org/wordpress/). Prior to joining as a PhD student, I worked as a Research Specialist at the [Visual Cognition Lab](https://emilyward.org/wordpress/) after graduating from undergrad in 2019. During my undergrad, I spent a summer at [Brown University](https://www.brown.edu/) working at the [Serre Lab](https://serre-lab.clps.brown.edu/person/thomas-serre/). I also spent 6 months at [VMware](https://www.vmware.com/in.html) in Bangalore, India as a R&D intern during spring 2019.
+[Read more about me](/about-me/)
 
-In another life, I was a child actor. One of my tv series, aired on [Indian National television (Doordarshan)](https://prasarbharati.gov.in/dd-national-homepage/). One of my [short films on youtube](https://www.youtube.com/watch?v=fjlzhPHOIHY&ab_channel=RunwayReel-TeluguLatestShortFilms) has about 3.7 million views. In my free time, I love playing the guitar, writing songs and playing table tennis. I have made the [anthem](https://www.youtube.com/watch?v=Rqzddi6MSpY&ab_channel=HyderabadHunters) for [Hyderabad Hunters](http://hyderabadhunters.com/) which is a team in the [Premier Badminton League](https://www.pbl-india.com/). You can find the rest of my portfolio [here](https://sites.google.com/d/16PLQORwYlPE82tcVcBhLdZI2-m7e0RgL/p/10v8RH9SqLFaI3awN2wE3KRI0piiKtLxu/edit).
+Research Interests
+======
 
+* Cognitive Science
+* Representation Learning
+* Language Models - LLM Agents, SFT, Reasoning, Evaluation, etc.
+* Multimodal Learning
+
+
+
+
+Latest News
+======
+
+
+***December 2024**: Workshop proposal "Representational Alignment in Minds and Machines" accepted to [ICLR 2025](https://iclr.cc/Conferences/2025). I will be co-organizing this workshop. [Workshop website](https://representational-alignment.github.io/2025/)*
+
+***November 2024**: Accepted offer as a ML Research Intern at Netflix for Summer 2025 to work on LLM agents. Sunny California, here I come!*
+***September 2024**: Paper "Probing LLM World Model: Enhancing Guesstimation with Wisdom of Crowds Decoding" accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024) Workshop on Behavioral Machine Learning*
+
+***September 2024**: Paper "Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning" accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024) datasets and benchmarks track*
+
+***June 2024**: Started as an Applied Scientist Intern at Amazon AGI working on generative recommendation systems using LLMs*
+***April 2024**: Paper "Learning interactions to boost human creativity with bandits and GPT-4" accepted to [CogSci 2024](https://cognitivesciencesociety.org/cogsci-2024/) in Rotterdam*
+
+***March 2024**: Gave an invited talk on "Semantic reprresentations in minds and machines" at PDP seminar at Princeton University*
+
+***March 2024**: Paper "Siimulating Opinion Dynamics with Networks of LLM-based Agents"" accepted to NAACL 2024*
+
+***February 2024**: Two papers accepted at ICLR 2024 workshop on LLM Agents: "The Wisdom of Partisan Crowds" and "Simulating Opinion Dynamics with Networks of LLM-based Agents"*
+
+***February 2024**: Two papers accepted at ICLR 2024 Workshop on Representational Alignment: "Categories vs Semantic Features: What shapes the similarities people discern in photographs of objects?" and "The role of shared labels and experiences in representational alignment" with K. Mukherjee*
+
+***December 2023**: Received departmental travel award of $1500 to present research at EMNLP 2023 in Singapore*
+
+***November 2023**: Gave a guest lecture on using version control for research projects at AI + Society seminar (Wisconsin Institute of Discovery)*
+
+***September 2023**: Gave an invited talk on "Semantic representations in minds and machines" at the MRC Cognition and Brain Sciences Unit, Cambridge, UK*
+
+***September 2023**: Paper "Conceptual structure coheres in human cognition but not in large language models" accepted to the main track at EMNLP 2023*
+
+***July 2023**: Presented poster on "Behavioral estimates of conceptual structure" at CogSci 2023 in Sydney, Australia*
+
+***June 2023**: Received Menzies award of $500 to conduct research using Large Language Models*
+
+***May 2023**: Presented talk on "Can deep convolutional networks explain the semantic structure that humans see in photographs?" at Vision Science Society conference in St. Pete's Beach, Florida*
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
