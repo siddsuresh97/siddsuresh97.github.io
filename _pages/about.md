@@ -35,7 +35,7 @@ Latest News
 <div class="news-section">
 <ul>
 
-<li><strong>December 2024</strong>: Workshop proposal "Representational Alignment in Minds and Machines" accepted to <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>. I will be co-organizing this workshop. <a href="https://representational-alignment.github.io/2025/">Workshop website</a></li>
+<li><strong>December 2024</strong>: I will be co-orgnising the <a href="https://representational-alignment.github.io/2025/">ICLR 2025 </a> Workshop on Representational Alignment(Re-Align)<a href="https://representational-alignment.github.io/2025/">Representational Alignment(Re-Align)</a>. </li>
 
 <li><strong>November 2024</strong>: Accepted offer as a ML Research Intern at Netflix for Summer 2025 to work on LLM agents. Sunny California, here I come!</li>
 <li><strong>September 2024</strong>: Paper "Probing LLM World Model: Enhancing Guesstimation with Wisdom of Crowds Decoding" accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> Workshop on Behavioral Machine Learning</li>
