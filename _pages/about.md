@@ -33,15 +33,15 @@ Latest News
 <div class="news-section">
 <ul>
 
-<li><strong>December 2024</strong>: Workshop proposal "Representational Alignment in Minds and Machines" accepted to [ICLR 2025](https://iclr.cc/Conferences/2025). I will be co-organizing this workshop. [Workshop website](https://representational-alignment.github.io/2025/)</li>
+<li><strong>December 2024</strong>: Workshop proposal "Representational Alignment in Minds and Machines" accepted to <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>. I will be co-organizing this workshop. <a href="https://representational-alignment.github.io/2025/">Workshop website</a></li>
 
 <li><strong>November 2024</strong>: Accepted offer as a ML Research Intern at Netflix for Summer 2025 to work on LLM agents. Sunny California, here I come!</li>
-<li><strong>September 2024</strong>: Paper "Probing LLM World Model: Enhancing Guesstimation with Wisdom of Crowds Decoding" accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024) Workshop on Behavioral Machine Learning</li>
+<li><strong>September 2024</strong>: Paper "Probing LLM World Model: Enhancing Guesstimation with Wisdom of Crowds Decoding" accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> Workshop on Behavioral Machine Learning</li>
 
-<li><strong>September 2024</strong>: Paper "Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning" accepted to [NeurIPS 2024](https://neurips.cc/Conferences/2024) datasets and benchmarks track</li>
+<li><strong>September 2024</strong>: Paper "Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning" accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> datasets and benchmarks track</li>
 
 <li><strong>June 2024</strong>: Started as an Applied Scientist Intern at Amazon AGI working on generative recommendation systems using LLMs</li>
-<li><strong>April 2024</strong>: Paper "Learning interactions to boost human creativity with bandits and GPT-4" accepted to [CogSci 2024](https://cognitivesciencesociety.org/cogsci-2024/) in Rotterdam</li>
+<li><strong>April 2024</strong>: Paper "Learning interactions to boost human creativity with bandits and GPT-4" accepted to <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> in Rotterdam</li>
 
 <li><strong>March 2024</strong>: Gave an invited talk on "Semantic reprresentations in minds and machines" at PDP seminar at Princeton University</li>
 
