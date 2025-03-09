@@ -35,7 +35,9 @@ Latest News
 <div class="news-section">
 <ul>
 
-<li><strong>December 2024</strong>: I will be co-orgnising the <a href="https://representational-alignment.github.io/2025/">ICLR 2025 </a> Workshop on <a href="https://representational-alignment.github.io/2025/">Representational Alignment (Re-Align)</a>. </li>
+<li><strong>March 2025</strong>: Received the <a href="https://psych.wisc.edu/graduate-program/student-handbook/awards-fellowships/#schwartz">Schwartz fellowship</a> ($5000) to support research on understanding how task objective shapes representations.</li>
+
+<li><strong>December 2024</strong>: I will be co-organising the <a href="https://representational-alignment.github.io/2025/">ICLR 2025 </a> Workshop on <a href="https://representational-alignment.github.io/2025/">Representational Alignment (Re-Align)</a>. </li>
 
 <li><strong>November 2024</strong>: Accepted offer as a ML Research Intern at Netflix for Summer 2025 to work on LLM agents. Sunny California, here I come!</li>
 <li><strong>September 2024</strong>: Paper "Probing LLM World Model: Enhancing Guesstimation with Wisdom of Crowds Decoding" accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> Workshop on Behavioral Machine Learning</li>
