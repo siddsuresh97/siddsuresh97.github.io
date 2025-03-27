@@ -34,7 +34,7 @@ Latest News
 
 <div class="news-section">
 <ul>
-
+<li><strong>March 2025</strong>: 'AI-enhanced semantic feature norms for 786 concepts.' accepted as an Oral at the <a href="https://bialign-workshop.github.io/#/papers">ICLR 2025 Biderctional Human-AI Alignment Workshop</a>.</li>
 <li><strong>March 2025</strong>: Received the <a href="https://psych.wisc.edu/graduate-program/student-handbook/awards-fellowships/#schwartz">Schwartz fellowship</a> ($5000) to support research on understanding how task objective shapes representations.</li>
 
 <li><strong>December 2024</strong>: I will be co-organising the <a href="https://representational-alignment.github.io/2025/">ICLR 2025 </a> Workshop on <a href="https://representational-alignment.github.io/2025/">Representational Alignment (Re-Align)</a>. </li>
