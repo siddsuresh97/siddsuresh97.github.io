@@ -12,7 +12,7 @@ redirect_from:
 Hi!
 ======
 
-I am Siddharth, a third-year graduate student in the [Psychology Department](https://psych.wisc.edu/) and the [Computer Science Department](https://www.cs.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/). I am interested in the intersection of Cognitive Science and Artificial Intelligence. My research interests include using computational modelling techniques like Deep Learning and Machine Learning to understand our brains reprsent semantic information. I also use techniques from Cognitive Science to understand semantic representations in AI models.
+I am Siddharth, a ~~first~~ ~~second~~ ~~third~~ fourth-year graduate student in the [Psychology Department](https://psych.wisc.edu/) and the [Computer Science Department](https://www.cs.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/). I am interested in the intersection of Cognitive Science and Artificial Intelligence. My research interests include using computational modelling techniques like Deep Learning and Machine Learning to understand our brains reprsent semantic information. I also use techniques from Cognitive Science to understand semantic representations in AI models.
 
 [Read more about me](/about-me/)
 
