@@ -34,7 +34,8 @@ Latest News
 
 <div class="news-section">
 <ul>
-<li><strong>March 2025</strong>: 'AI-enhanced semantic feature norms for 786 concepts.' accepted as a Talk at the <a href="https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>.</li>
+<li><strong>April 2025</strong>: Received a travel grant from the <a href="https://bialign-workshop.github.io/#/papers">ICLR 2025 Birectional Human-AI Alignment Workshop</a>.</li>
+<li><strong>April 2025</strong>: 'AI-enhanced semantic feature norms for 786 concepts.' accepted as a Talk at the <a href="https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>.</li>
 <li><strong>March 2025</strong>: 'AI-enhanced semantic feature norms for 786 concepts.' accepted as an Oral at the <a href="https://bialign-workshop.github.io/#/papers">ICLR 2025 Birectional Human-AI Alignment Workshop</a>.</li>
 <li><strong>March 2025</strong>: Received the <a href="https://psych.wisc.edu/graduate-program/student-handbook/awards-fellowships/#schwartz">Schwartz fellowship</a> ($5000) to support research on understanding how task objective shapes representations.</li>
 
