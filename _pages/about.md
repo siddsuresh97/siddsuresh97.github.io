@@ -34,8 +34,9 @@ Latest News
 
 <div class="news-section">
 <ul>
+<li><strong>June 2025</strong>: 🏆 'AI-enhanced semantic feature norms for 786 concepts' won Computational Modelling Prize in Applied Cognition at <a href="https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>! 🎉</li>
 
-<li><strong>April 2025</strong>: 'AI-enhanced semantic feature norms for 786 concepts' won the Best Paper Award at the <a href="https://bialign-workshop.github.io/#/papers">ICLR 2025 Birectional Human-AI Alignment Workshop</a>.</li>
+<li><strong>April 2025</strong>: 🏆 'AI-enhanced semantic feature norms for 786 concepts' won the Best Paper Award at the <a href="https://bialign-workshop.github.io/#/papers">ICLR 2025 Birectional Human-AI Alignment Workshop</a>! 🎉</li>
 
 <li><strong>March-April 2025</strong>: Paper 'AI-enhanced semantic feature norms for 786 concepts' accepted as an Oral at the <a href="https://bialign-workshop.github.io/#/papers">ICLR 2025 Birectional Human-AI Alignment Workshop</a> and as a Talk at <a href="https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>. Received a travel grant from the workshop to support my attendance.</li>
 
@@ -46,7 +47,7 @@ Latest News
 <li><strong>November 2024</strong>: Accepted offer as a ML Research Intern at Netflix for Summer 2025 to work on LLM agents. Sunny California, here I come!</li>
 <li><strong>September 2024</strong>: Paper "Probing LLM World Model: Enhancing Guesstimation with Wisdom of Crowds Decoding" accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> Workshop on Behavioral Machine Learning</li>
 
-<li><strong>September 2024</strong>: Paper "Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning" accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> datasets and benchmarks track</li>
+<li><strong>September 2024</strong>: Paper "Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning" accepted as a Spotlight at <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a> datasets and benchmarks track</li>
 
 <li><strong>June 2024</strong>: Started as an Applied Scientist Intern at Amazon AGI working on generative recommendation systems using LLMs</li>
 <li><strong>April 2024</strong>: Paper "Learning interactions to boost human creativity with bandits and GPT-4" accepted to <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a> in Rotterdam</li>
