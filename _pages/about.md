@@ -34,6 +34,8 @@ Latest News
 
 <div class="news-section">
 <ul>
+
+<li><strong>September 2025</strong>: Wrapped up an incredible summer internship at Netflix! Deeply grateful for my amazing colleagues who made the experience special - they even put together this heartwarming <a href="https://www.kudoboard.com/boards/9XTV0mcS/">kudoboard</a> 💝</li>
 <li><strong>June 2025</strong>: 🏆 'AI-enhanced semantic feature norms for 786 concepts' won Computational Modelling Prize in Applied Cognition at <a href="https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>! 🎉</li>
 
 <li><strong>April 2025</strong>: 🏆 'AI-enhanced semantic feature norms for 786 concepts' won the Best Paper Award at the <a href="https://bialign-workshop.github.io/#/papers">ICLR 2025 Birectional Human-AI Alignment Workshop</a>! 🎉</li>
