@@ -35,6 +35,9 @@ Latest News
 <div class="news-section">
 <ul>
 
+
+
+<li><strong>Novemeber 2025</strong>: Started working part-time with <a href="https://labs.amazon.science/">Amazon AGI SF Lab</a> to work on building useful AI agents.</li>
 <li><strong>September 2025</strong>: Wrapped up an incredible summer internship at Netflix! Deeply grateful for my amazing colleagues who made the experience special - they even put together this heartwarming <a href="https://www.kudoboard.com/boards/9XTV0mcS/">kudoboard</a> 💝</li>
 <li><strong>June 2025</strong>: 🏆 'AI-enhanced semantic feature norms for 786 concepts' won Computational Modelling Prize in Applied Cognition at <a href="https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>! 🎉</li>
 
