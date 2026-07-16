@@ -37,6 +37,11 @@ Latest News
 
 
 
+<li><strong>July 2026</strong>: 🎉 Two of our papers were accepted to <a href="https://colmweb.org/">COLM 2026</a> — my first time serving as the advising author! <a href="https://arxiv.org/abs/2510.01030">'Uncovering the Computational Ingredients of Human-Like Representations in LLMs'</a> and <a href="https://arxiv.org/abs/2505.19333">'Evaluating Steering Techniques using Human Similarity Judgments'</a>, both led by Zach Studdiford.</li>
+
+<li><strong>May 2026</strong>: Finished my two prelims and defended my dissertation proposal — officially a dissertator! 🎓</li>
+
+<li><strong>April 2026</strong>: Successfully co-organised another round of the <a href="https://representational-alignment.github.io/2026/">Workshop on Representational Alignment (Re-Align)</a> at ICLR 2026. Led sponsorship efforts, raising $10K to fund travel awards for many participants, and co-led benchmarking for a new competition.</li>
 <li><strong>Novemeber 2025</strong>: Started working part-time with <a href="https://labs.amazon.science/">Amazon AGI SF Lab</a> to work on building useful AI agents.</li>
 <li><strong>September 2025</strong>: Wrapped up an incredible summer internship at Netflix! Deeply grateful for my amazing colleagues who made the experience special - they even put together this heartwarming <a href="https://www.kudoboard.com/boards/9XTV0mcS/">kudoboard</a> 💝</li>
 <li><strong>June 2025</strong>: 🏆 'AI-enhanced semantic feature norms for 786 concepts' won Computational Modelling Prize in Applied Cognition at <a href="https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>! 🎉</li>
